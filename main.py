@@ -1,4 +1,4 @@
-Let's break down the implementation of the Student Management System project based on the given requirements. We'll use Python for this example, utilizing principles of Object-Oriented Programming (OOP) to create a functional system. Below is a detailed approach to implementing each class and method.
+# Let's break down the implementation of the Student Management System project based on the given requirements. We'll use Python for this example, utilizing principles of Object-Oriented Programming (OOP) to create a functional system. Below is a detailed approach to implementing each class and method.
 
 # 1. Person Class
 # The Person class will serve as the base class for Student and Instructor.
@@ -135,13 +135,10 @@ class StudentManagementSystem:
 
 
 
-
-
-
-/Summary
-Person class as a base with common attributes.
-Student and Instructor classes extending Person with additional attributes.
-Course class for managing courses and enrolled students.
-Enrollment class to handle student-course relationships and grades.
-StudentManagementSystem class for overall management, including CRUD operations, enrollments, and grade assignments.
-This structure ensures that the system is modular, scalable, and adheres to OOP principles like inheritance and encapsulation. Feel free to modify and extend these classes based on additional requirements or features./
+# /Summary
+# Person class as a base with common attributes.
+# Student and Instructor classes extending Person with additional attributes.
+# Course class for managing courses and enrolled students.
+# Enrollment class to handle student-course relationships and grades.
+# StudentManagementSystem class for overall management, including CRUD operations, enrollments, and grade assignments.
+# This structure ensures that the system is modular, scalable, and adheres to OOP principles like inheritance and encapsulation. Feel free to modify and extend these classes based on additional requirements or features./
